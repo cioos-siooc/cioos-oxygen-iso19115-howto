@@ -1,6 +1,6 @@
 # Using Oxygen with CIOOS XML
 
-This repo will help you work with CIOOS XML documents using Oxygen XML editor. Oxygen can flag incorrect XML and suggest valid tags making it much easier to create valid XML documents.
+This repo will help you work with CIOOS XML documents using Oxygen XML editor. Oxygen can flag incorrect XML and provides autocomplete making it much easier to create valid XML documents.
 
 ## Setup
 
