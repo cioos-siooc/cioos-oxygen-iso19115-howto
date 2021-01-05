@@ -2,6 +2,8 @@
 
 This repo will help you work with 19115-3 XML documents using Oxygen XML editor. Oxygen provides autocomplete of XML tags as well as schema validation making it much easier to create valid XML documents.
 
+<img src="oxygen_cioos_xml.gif">
+
 ## Setup
 
 1. [Download and install Oxygen XML editor](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html)
