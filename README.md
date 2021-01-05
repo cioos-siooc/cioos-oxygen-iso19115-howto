@@ -1,4 +1,4 @@
-# Using Oxygen with associated ISO 19115-3 schema
+# Using Oxygen with ISO 19115-3
 
 This repo will help you work with 19115-3 XML documents using Oxygen XML editor. Oxygen provides autocomplete of XML tags as well as schema validation making it much easier to create valid XML documents.
 
